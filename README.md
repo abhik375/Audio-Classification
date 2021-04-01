@@ -45,9 +45,6 @@ Assuming you have ipykernel installed from your conda environment
 
 `python eda.py`
 
-Time Series 
-
-![Time Series](doc/time_series.png)
 
 signal envelope to cutoff at a threshold to remove low magnitude data
 

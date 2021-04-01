@@ -125,6 +125,8 @@ ax.pie(class_dist, labels=class_dist.index, autopct='%1.1f%%',
 ax.axis('equal')
 plt.show()
 
+
+#set mode = 'conv' for CNN and 'time for RNN
 config = Config(mode='time')
 
 if config.mode == 'conv':
