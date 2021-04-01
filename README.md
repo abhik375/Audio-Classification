@@ -47,7 +47,7 @@ Assuming you have ipykernel installed from your conda environment
 
 Time Series 
 
-![Time Series](docs/time_series.png)
+![Time Series](doc/time_series.png)
 
 signal envelope to cutoff at a threshold to remove low magnitude data
 
